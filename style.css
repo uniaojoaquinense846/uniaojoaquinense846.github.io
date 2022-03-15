@@ -1,6 +1,6 @@
 
 body{
-background:linear-gradient(rgb(146, 0, 0),rgb(158, 15, 15),rgba(94, 0, 0, 0.836));
+background:linear-gradient(rgb(11, 0, 77),rgb(10, 1, 63),rgba(9, 0, 61, 0.836));
 background-size: 100%;
 background-attachment: fixed;
 
@@ -11,7 +11,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 #logo img{
-width: 175px;
+width: 275px;
 height: auto;
 }
 
